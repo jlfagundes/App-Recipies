@@ -6,6 +6,7 @@ Este projeto foi desenvolvido juntamento com parceiros de estudo, durante o curs
 
 Neste projeto tive a oportunidade de trabalhar em equipe, aprendi muito com essa experiência, um dos desafios foi o trabalho remoto, que foi resolvido com ajuda de ferramentas como o Slack para comunicação da equipe, o Trello como ferramenta de kanban para distribuir os requisitos e controlar os processos de desenvolvimento e code review, o Figma para dar uma visão geral das telas do app pra toda a equipe, o Zoom como ferramneta para reuniões diárias para acompanhar o andamento dos requisitos e planejamento diário dos integrantes da equipe e o Visual Code como ferramenta para desenvolvimento do código.
 
+![jlfagundes-app-recipies (1)](https://user-images.githubusercontent.com/69995096/138343137-e1ea7c12-1a32-4371-80c9-698fb54037de.gif)
 
 ## Intruções para instalar o projeto localmente
 
